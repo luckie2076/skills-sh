@@ -7,7 +7,7 @@ license = "MIT"
 repository = "https://github.com/luckie2076/skills-sh"
 authors = ["luckie2076 <962102020@qq.com>"]
 keywords = ["skills", "agents", "ai", "scraper", "registry"]
-categories = ["web-programming::api-bindings", "web-programming::http-client"]
+categories = ["api-bindings"]
 
 [dependencies]
 reqwest = "0.13.4"
