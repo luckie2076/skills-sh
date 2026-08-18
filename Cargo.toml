@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2024"
 description = "A minimal Rust client for scraping the skills.sh skill registry"
 license = "MIT"
+repository = "https://github.com/luckie2076/skills-sh"
+authors = ["luckie2076 <962102020@qq.com>"]
+keywords = ["skills", "agents", "ai", "scraper", "registry"]
+categories = ["web-programming::api-bindings", "web-programming::http-client"]
 
 [dependencies]
 reqwest = "0.13.4"
